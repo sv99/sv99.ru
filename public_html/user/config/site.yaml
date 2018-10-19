@@ -1,0 +1,16 @@
+title: 'Grav sv99'
+default_lang: ru
+author:
+  name: 'Slava Volkov'
+  email: sv99@inbox.ru
+taxonomies:
+  - tag
+metadata:
+  description: 'My Grav Site'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

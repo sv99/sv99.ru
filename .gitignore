@@ -1,0 +1,4 @@
+*.swp
+public_html/cache/*
+public_html/tmp/*
+public_html/logs/*

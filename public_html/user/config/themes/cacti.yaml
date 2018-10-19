@@ -1,0 +1,9 @@
+enabled: true
+author: 'Волков Вячеслав'
+title_header: false
+home_profile: true
+infinite_scroll: true
+analytics: UA-YOURCODE
+social:
+  twitter: @sv99sv
+  facebook: false

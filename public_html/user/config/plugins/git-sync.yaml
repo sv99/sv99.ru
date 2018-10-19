@@ -1,0 +1,29 @@
+enabled: true
+folders:
+  - pages
+  - themes
+  - plugins
+  - config
+  - data
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+repository: 'https://github.com/sv99/sv99.ru.git'
+user: sv99
+webhook: /_git-sync-sv99-ru
+webhook_enabled: '0'
+webhook_secret: 5e7614103297dd6b543a4752c5eddb0fb9d8820e4f10d4d2
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gituser
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+logging: false
+password: gitsync-def5020023f92431086f3b3c3bc6550212e71d83c60825e1d5d81bfd075a83fa3f75cb400854b835fcd26db7a9bf13a2dfac20a4a7a87f64e05f318ad51cb7f243237f242dac96e8463e4c659deb4e1875dcdc7cb98c4186a69d65eca7615fb17c1bfc

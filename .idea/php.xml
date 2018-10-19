@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/public_html/vendor/gregwar/image" />
+      <path value="$PROJECT_DIR$/public_html/vendor/rockettheme/toolbox" />
+      <path value="$PROJECT_DIR$/public_html/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/public_html/vendor/erusev/parsedown-extra" />
+      <path value="$PROJECT_DIR$/public_html/vendor/league/climate" />
+      <path value="$PROJECT_DIR$/public_html/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/public_html/vendor/donatj/phpuseragentparser" />
+      <path value="$PROJECT_DIR$/public_html/vendor/gregwar/cache" />
+      <path value="$PROJECT_DIR$/public_html/vendor/miljar/php-exif" />
+      <path value="$PROJECT_DIR$/public_html/vendor/composer" />
+      <path value="$PROJECT_DIR$/public_html/vendor/seld/cli-prompt" />
+      <path value="$PROJECT_DIR$/public_html/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/public_html/vendor/antoligy/dom-string-iterators" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/public_html/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/public_html/vendor/matthiasmullie/minify" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/public_html/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/public_html/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/public_html/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/public_html/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/public_html/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/public_html/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/public_html/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/public_html/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/public_html/vendor/matthiasmullie/path-converter" />
+      <path value="$PROJECT_DIR$/public_html/vendor/erusev/parsedown" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+</project>
